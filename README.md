@@ -6,6 +6,11 @@
 - 💞️ I’m looking to collaborate on on open-source and group projects
 - 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
 
+
+Blogs posts:
+ [What are arrow Functions](https://dev.to/lupitalee/what-are-arrow-functions-15me)
+
+
 Connect with me:
 
 Languages and Tools:
