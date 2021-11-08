@@ -5,10 +5,11 @@
 - 🌱 I’m currently learning React - Redux
 - 💞️ I’m looking to collaborate on on open-source and group projects
 - 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
-- <a href="lupitarivera8899@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 
 
 Connect with me:
+[LinkedIN]: https://www.linkedin.com/in/lupita-rivera/
 
 Languages and Tools:
 
