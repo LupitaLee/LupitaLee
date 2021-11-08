@@ -10,7 +10,8 @@
 
 Connect with me:
 [LinkedIN]: https://www.linkedin.com/in/lupita-rivera
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail]: (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 
 
 
