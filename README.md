@@ -9,7 +9,7 @@
 
 
 Connect with me:
-[LinkedIN]: https://www.linkedin.com/in/lupita-rivera/
+[LinkedIN]: https://www.linkedin.com/in/lupita-rivera
 
 Languages and Tools:
 
