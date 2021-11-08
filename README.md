@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lupita Rivera
-- 💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
+- 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 👯 I’m looking to collaborate 
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
 - 🌱 I’m currently learning React - Redux
@@ -10,8 +10,9 @@
 
 Connect with me:
 [LinkedIN]: https://www.linkedin.com/in/lupita-rivera
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-![github](https://www.linkedin.com/in/lupita-rivera)][1]
+
 
 Languages and Tools:
 
