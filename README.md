@@ -11,7 +11,7 @@
 Connect with me:
 [LinkedIN]: https://www.linkedin.com/in/lupita-rivera
 
-[![github](https://www.linkedin.com/in/lupita-rivera)][1]
+![github](https://www.linkedin.com/in/lupita-rivera)][1]
 
 Languages and Tools:
 
