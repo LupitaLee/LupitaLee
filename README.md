@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Lupita Rivera
+- 💻 All of my projects are available at https://github.com/LupitaLee/LupitaLee
 - 👯 I’m looking to collaborate 
 - 📝 I regularly write articles on https://dev.to/lupitalee
 - 🌱 I’m currently learning React - Redux
 - 💞️ I’m looking to collaborate on on open-source and group projects
-- 📫 How to reach me ....
+- 📫 How to reach me 
+- [Lupita Rivera](mailto:lupitarivera8899@gmail.com)
 
 Connect with me:
 
