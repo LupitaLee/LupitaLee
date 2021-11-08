@@ -1,14 +1,13 @@
 - 👋 Hi, I’m Lupita Rivera
-- 💻 All of my projects are available at https://github.com/LupitaLee/LupitaLee
+- 💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 👯 I’m looking to collaborate 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
 - 🌱 I’m currently learning React - Redux
 - 💞️ I’m looking to collaborate on on open-source and group projects
 - 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
 
 
-Blogs posts: [DEV](https://dev.to/lupitalee)
-
+Blogs posts:
 [what-are-arrow-functions](https://dev.to/lupitalee/what-are-arrow-functions-15me)
 [omniauth-with-google-oauth2-on-rails](https://dev.to/lupitalee/omniauth-with-google-oauth2-on-rails-5eka)
 [what-are-arrow-functions](https://dev.to/lupitalee/what-are-arrow-functions-15me)
