@@ -7,12 +7,6 @@
 - 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
 
 
-Blogs posts:
-[what-are-arrow-functions](https://dev.to/lupitalee/what-are-arrow-functions-15me)
-[omniauth-with-google-oauth2-on-rails](https://dev.to/lupitalee/omniauth-with-google-oauth2-on-rails-5eka)
-[what-are-arrow-functions](https://dev.to/lupitalee/what-are-arrow-functions-15me)
-
-
 Connect with me:
 
 Languages and Tools:
