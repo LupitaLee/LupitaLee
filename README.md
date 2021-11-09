@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lupita Rivera</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 👯 I’m looking to collaborate 
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
+- - 📝 I regularly write articles on [https://dev.to/lupitalee](https://dev.to/lupitalee)
 - 🌱 I’m currently learning React - Redux
 - 💞️ I’m looking to collaborate on on open-source and group projects
 - 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
