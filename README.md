@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lupita Rivera</h1>
+
+
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 👯 I’m looking to collaborate 
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
