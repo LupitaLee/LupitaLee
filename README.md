@@ -18,7 +18,7 @@
   
 
   
-  ![<Google>](https://img.shields.io/badge/Google-004088?style=for-the-badge&logo=Google&logoColor=white)]
+  ![<Google>](https://img.shields.io/badge/Google-004088?style=for-the-badge&logo=Google&logoColor=white)
 
 </p>
 
