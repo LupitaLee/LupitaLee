@@ -7,16 +7,14 @@
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
 - 🌱 I’m currently learning React - Redux
 - 💞️ I’m looking to collaborate on on open-source and group projects
-- 📫 How to reach me, click here [email](mailto:lupitarivera8899@gmail.com)
+
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lupitalee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lupitalee" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/lupita-rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lupita-rivera" height="30" width="40" /></a>
-  
+<a href="https://dev.to/lupitalee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lupitalee" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/lupita-rivera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lupita-rivera" height="30" width="40" /></a>  
 [ ![<Google>](https://img.shields.io/badge/Google-004088?style=for-the-badge&logo=Google&logoColor=white)](mailto:lupitarivera8899@gmail.com)
   
   
