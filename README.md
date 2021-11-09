@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lupita Rivera
+<h1 align="center">Hi 👋, I'm Lupita Rivera</h1>
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 👯 I’m looking to collaborate 
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
@@ -15,6 +15,13 @@ Connect with me:
 
 
 Languages and Tools:
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lupitalee&show_icons=true&locale=en&layout=compact" alt="lupitalee" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lupitalee&show_icons=true&locale=en" alt="lupitalee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupitalee&" alt="lupitalee" /></p>
 
 <!---
 LupitaLee/LupitaLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
