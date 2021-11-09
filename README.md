@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lupita Rivera</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lupitalee&label=Profile%20views&color=0e75b6&style=flat" alt="lupitalee" /> </p>
+
 
 
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
