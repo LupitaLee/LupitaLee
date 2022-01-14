@@ -5,9 +5,9 @@
 
 
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
-- 👯 I’m looking to collaborate 
+- 💬 Ask me about Ruby, Ruby on Rails, JavaScript, ReactJS
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
-- 🌱 I’m currently learning React - Redux
+- 🌱 I’m currently learning Algorithm and Data Structures
 - 💞️ I’m looking to collaborate on on open-source and group projects
 
 
