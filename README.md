@@ -7,7 +7,7 @@
 - 👩‍💻 All of my projects are available at [Github](https://github.com/LupitaLee/LupitaLee) 
 - 💬 Ask me about Ruby, Ruby on Rails, JavaScript, ReactJS
 - 📝 I regularly write articles on  [DEV](https://dev.to/lupitalee)
-- 🌱 I’m currently learning Algorithms and Data Structures
+- 🌱 I’m currently learning AWS - Cloud Practitioner Essentials,  Algorithms and Data Structures
 - 💞️ I’m looking to collaborate on on open-source and group projects
 
 
